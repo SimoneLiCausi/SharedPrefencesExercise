@@ -1,0 +1,11 @@
+Per seguire bene la spiegazione tra i commenti, apri le classi in questo ordine:
+
+
+1. MyApplication
+2. WeatherProvider
+3. MainViewModelFactory
+4. WeatherViewModel
+5. FirstFragment
+
+
+Grazie e buono studio.
